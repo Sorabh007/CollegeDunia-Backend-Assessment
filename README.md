@@ -1,8 +1,5 @@
 # CollegeDunia-Backend-Assessment
 
-## Sorabh Guliya
-## officialsorabhguliya@gmail.com
-
 ## Overview 
 
 This project is a Book Management RestAPI built with Node.js and MongoDB using Mongoose. It provides endpoints to register, retrieve, update, and delete books, as well as features for pagination, search, and sorting.
